@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+  <file>
+    <body>
+      <trans-unit id="tl_content.subHeadline.0">
+        <source>Unterüberschrift</source>
+      </trans-unit>
+      <trans-unit id="tl_content.subHeadline.1">
+        <source>Bitte geben Sie Ihre Unterüberschrift ein.</source>
+      </trans-unit>
+      <trans-unit id="tl_content.info_box_legend">
+        <source>Unterüberschrift</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
