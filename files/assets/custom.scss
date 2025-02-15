@@ -1,9 +1,23 @@
+$color-gray: #5B5B66;
+$color-light-gray: #F0F0F4;
+$font-size-subline: 20px;
+
 .content-info-box {
+    margin: 16px;
+    padding: 16px;
+    background-color: $color-light-gray;
+    border: 1px solid $color-gray;
+
     h1, h2, h3 {
         span {
             display: block;
-            color: #eee;
-            font-size: 20px;
+            color: $color-gray;
+            font-size: $font-size-subline;
         }
+    }
+
+    .subheadline {
+        color: $color-gray;
+        font-size: $font-size-subline;
     }
 }
