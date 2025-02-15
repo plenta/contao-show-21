@@ -1,0 +1,44 @@
+{
+    "name": "plenta/contao-show-21",
+    "type": "contao-bundle",
+    "description": "Contao Show #21",
+    "version": "5.3",
+    "authors": [
+        {
+            "name": "Christian Barkowsky",
+            "homepage": "https://plenta.io"
+        }
+    ],
+    "funding": [{
+        "type": "github",
+        "url": "https://github.com/sponsors/plenta"
+    }],
+    "support": {
+        "issues": "https://github.com/plenta/contao-show-21"
+    },
+    "require": {
+        "php": "^8.3",
+        "contao/conflicts": "@dev",
+        "contao/manager-bundle": "5.3.*",
+        "contao/maker-bundle": "^5.3"
+    },
+    "extra": {
+        "contao-component-dir": "assets",
+        "public-dir": "public"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "@php vendor/bin/contao-setup"
+        ],
+        "post-update-cmd": [
+            "@php vendor/bin/contao-setup"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "contao-components/installer": true,
+            "php-http/discovery": true,
+            "contao/manager-plugin": true
+        }
+    }
+}
