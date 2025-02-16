@@ -12,7 +12,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
 #[AsFrontendModule(category: 'miscellaneous')]
-class CarSharingController extends AbstractFrontendModuleController
+class CarsController extends AbstractFrontendModuleController
 {
     protected function getResponse(FragmentTemplate $template, ModuleModel $model, Request $request): Response
     {

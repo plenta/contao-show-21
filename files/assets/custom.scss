@@ -13,11 +13,13 @@ $font-size-subline: 20px;
             display: block;
             color: $color-gray;
             font-size: $font-size-subline;
+            padding-bottom: 8px;
         }
     }
 
     .subheadline {
         color: $color-gray;
         font-size: $font-size-subline;
+        padding-bottom: 8px;
     }
 }

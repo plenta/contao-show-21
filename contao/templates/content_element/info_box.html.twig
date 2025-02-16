@@ -18,4 +18,8 @@
         </div>
     {% endblock %}
 
+    {% block text_link %}
+        <a{{ attrs(link_attributes|default) }}>{{ link_text|insert_tag }}</a>
+    {% endblock %}
+
 {% endblock %}
