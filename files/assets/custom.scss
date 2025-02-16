@@ -1,10 +1,12 @@
 $color-gray: #5B5B66;
 $color-light-gray: #F0F0F4;
 $font-size-subline: 20px;
+$space-small: 8px;
+$space-normal: 16px;
 
 .content-info-box {
-    margin: 16px;
-    padding: 16px;
+    margin: $space-normal;
+    padding: $space-normal;
     background-color: $color-light-gray;
     border: 1px solid $color-gray;
 
@@ -20,7 +22,7 @@ $font-size-subline: 20px;
     .subheadline {
         color: $color-gray;
         font-size: $font-size-subline;
-        padding-bottom: 8px;
+        padding-bottom: $space-small;
     }
 }
 
@@ -31,8 +33,8 @@ $font-size-subline: 20px;
     }
 
     .car {
-        padding-bottom: 8px;
-        margin-bottom: 8px;
+        padding-bottom: $space-small;
+        margin-bottom: $space-small;
         border-bottom: 1px solid $color-gray;
 
         > div {
