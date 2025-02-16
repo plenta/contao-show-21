@@ -23,3 +23,28 @@ $font-size-subline: 20px;
         padding-bottom: 8px;
     }
 }
+
+.module-cars {
+    .empty {
+        color: #ff0000;
+        font-style: italic;
+    }
+
+    .car {
+        padding-bottom: 8px;
+        margin-bottom: 8px;
+        border-bottom: 1px solid $color-gray;
+
+        > div {
+            display: inline-block;
+        }
+
+        .marke {
+            font-weight: bold;
+        }
+
+        .baujahr {
+            color: $color-gray;
+        }
+    }
+}
