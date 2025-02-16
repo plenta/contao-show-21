@@ -1,16 +1,23 @@
+$color-red: #b0004e;
 $color-gray: #5B5B66;
 $color-light-gray: #F0F0F4;
 $font-size-subline: 20px;
+$color-orange: #f5f1ec;
+$space-very-small: 4px;
 $space-small: 8px;
 $space-normal: 16px;
 
 .content-info-box {
     margin: $space-normal;
     padding: $space-normal;
-    background-color: $color-light-gray;
-    border: 1px solid $color-gray;
+    background-color: $color-orange;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 0.2);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 0.2);
+    box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 0.2);
 
     h1, h2, h3 {
+        color: $color-red;
+
         span {
             display: block;
             color: $color-gray;
@@ -23,6 +30,24 @@ $space-normal: 16px;
         color: $color-gray;
         font-size: $font-size-subline;
         padding-bottom: $space-small;
+    }
+
+    a {
+        color: #fff;
+        display: inline-block;
+        outline: none;
+        padding: $space-small;
+        text-align: left;
+        appearance: none;
+        background-color: $color-red;
+        border: 1px solid $color-red;
+        border-radius: $space-small;
+        text-decoration: none;
+
+        &:hover, &:focus {
+            color: $color-red;
+            background-color: $color-orange;
+        }
     }
 }
 

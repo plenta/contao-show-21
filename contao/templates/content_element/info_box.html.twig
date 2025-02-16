@@ -19,7 +19,9 @@
     {% endblock %}
 
     {% block text_link %}
+        {% if href %}
         <a{{ attrs(link_attributes|default) }}>{{ link_text|insert_tag }}</a>
+        {% endif %}
     {% endblock %}
 
 {% endblock %}
