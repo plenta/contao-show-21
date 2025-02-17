@@ -8,6 +8,8 @@ Hier findest du meine Beispiele aus der Contao Show #21 vom 20.02.2025.
 
 Infobox mit Variationen
 
+<img src="/docs/InfoBox.jpg" alt="Alternativtext" style="width:400px;">
+
 
 ## Frontend Modul
 
