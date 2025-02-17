@@ -3,13 +3,13 @@
   <file>
     <body>
       <trans-unit id="tl_content.subHeadline.0">
-        <source>Unterüberschrift</source>
+        <target>Unterüberschrift</target>
       </trans-unit>
       <trans-unit id="tl_content.subHeadline.1">
-        <source>Bitte geben Sie Ihre Unterüberschrift ein.</source>
+        <target>Bitte geben Sie Ihre Unterüberschrift ein.</target>
       </trans-unit>
       <trans-unit id="tl_content.info_box_legend">
-        <source>Unterüberschrift</source>
+        <target>InfoBox</target>
       </trans-unit>
     </body>
   </file>

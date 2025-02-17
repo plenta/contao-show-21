@@ -3,22 +3,22 @@
   <file>
     <body>
       <trans-unit id="CTE.info_box.0">
-        <source>Info box</source>
+        <target>InfoBox</target>
       </trans-unit>
       <trans-unit id="CTE.info_box.1">
-        <source>Info box</source>
+        <target>InfoBox</target>
       </trans-unit>
       <trans-unit id="FMD.car_sharing.0">
-        <source>Car sharing</source>
+        <target>Autosammlung</target>
       </trans-unit>
       <trans-unit id="FMD.car_sharing.1">
-        <source>Car sharing</source>
+        <target>Autosammlung</target>
       </trans-unit>
       <trans-unit id="CTE.description_list.0">
-        <source>XXX Description list</source>
+        <target>XXX Description list</target>
       </trans-unit>
       <trans-unit id="CTE.description_list.1">
-        <source>XXX Generates a description list with terms and details.</source>
+        <target>XXX Generates a description list with terms and details.</target>
       </trans-unit>
     </body>
   </file>
