@@ -1,0 +1,18 @@
+{% extends "@Contao/content_element/info_box.html.twig" %}
+{% use "@Contao/component/_headline" %}
+
+{%- block headline_inner -%}
+    <span>{{ subHeadline }}</span>{{ headline.text|insert_tag_raw }}
+{%- endblock -%}
+
+{% block content %}
+
+    {% block text %}
+        {{ parent() }}
+    {% endblock %}
+
+    {% block text_link %}
+        {{ parent() }}
+    {% endblock %}
+
+{% endblock %}
