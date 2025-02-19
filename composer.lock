@@ -808,16 +808,16 @@
         },
         {
             "name": "contao-components/simplemodal",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao-components/simplemodal.git",
-                "reference": "7116cfdb5140bcee506bf947f825b754fb6a91f6"
+                "reference": "3525e8bbd67e40767ec485864c5be40e04989984"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contao-components/simplemodal/zipball/7116cfdb5140bcee506bf947f825b754fb6a91f6",
-                "reference": "7116cfdb5140bcee506bf947f825b754fb6a91f6",
+                "url": "https://api.github.com/repos/contao-components/simplemodal/zipball/3525e8bbd67e40767ec485864c5be40e04989984",
+                "reference": "3525e8bbd67e40767ec485864c5be40e04989984",
                 "shasum": ""
             },
             "require": {
@@ -837,9 +837,9 @@
             "description": "SimpleModal integration for Contao Open Source CMS",
             "support": {
                 "issues": "https://github.com/contao-components/simplemodal/issues",
-                "source": "https://github.com/contao-components/simplemodal/tree/3.0.2"
+                "source": "https://github.com/contao-components/simplemodal/tree/3.0.3"
             },
-            "time": "2024-07-05T14:55:10+00:00"
+            "time": "2025-02-17T10:32:20+00:00"
         },
         {
             "name": "contao-components/swipe",
@@ -1120,16 +1120,16 @@
         },
         {
             "name": "contao/core-bundle",
-            "version": "5.3.25",
+            "version": "5.3.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/core-bundle.git",
-                "reference": "399f82c3fab8349e2b78d6e370f047f82e5a211d"
+                "reference": "0addfae17f489c7eb4e7755a14d0747b4c9ba7a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contao/core-bundle/zipball/399f82c3fab8349e2b78d6e370f047f82e5a211d",
-                "reference": "399f82c3fab8349e2b78d6e370f047f82e5a211d",
+                "url": "https://api.github.com/repos/contao/core-bundle/zipball/0addfae17f489c7eb4e7755a14d0747b4c9ba7a9",
+                "reference": "0addfae17f489c7eb4e7755a14d0747b4c9ba7a9",
                 "shasum": ""
             },
             "require": {
@@ -1334,7 +1334,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2025-02-11T10:13:21+00:00"
+            "time": "2025-02-17T11:04:09+00:00"
         },
         {
             "name": "contao/image",
@@ -1475,7 +1475,7 @@
         },
         {
             "name": "contao/maker-bundle",
-            "version": "5.3.25",
+            "version": "5.3.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/maker-bundle.git",
@@ -1545,7 +1545,7 @@
         },
         {
             "name": "contao/manager-bundle",
-            "version": "5.3.25",
+            "version": "5.3.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/manager-bundle.git",

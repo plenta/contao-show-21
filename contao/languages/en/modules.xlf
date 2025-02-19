@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file>
+        <body>
+            <trans-unit id="MOD.cars.0">
+                <target>Autosammlung</target>
+            </trans-unit>
+            <trans-unit id="MOD.cars.1">
+                <target>Hier findest du die Autosammlung</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
