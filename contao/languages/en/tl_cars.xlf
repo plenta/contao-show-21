@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file>
+        <body>
+            <trans-unit id="tl_cars.marke.0">
+                <target>Automarke</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.marke.1">
+                <target>Bitte geben Sie die Automarke ein.</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.baujahr.0">
+                <target>Baujahr</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.baujahr.1">
+                <target>Bitte geben Sie das baujahr ein.</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.image.0">
+                <target>Bild</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.image.1">
+                <target>Bitte wählen Sie eine Datei  aus der Dateiübersicht.</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.car_legend">
+                <target>Allgemein</target>
+            </trans-unit>
+            <trans-unit id="tl_cars.image_legend">
+                <target>Bild</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
