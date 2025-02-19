@@ -1061,12 +1061,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/conflicts.git",
-                "reference": "cd5835fb78163c81e6824f294f436311fc382bbe"
+                "reference": "7591089bcfe9f888a6302db373666fb0be9163bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contao/conflicts/zipball/cd5835fb78163c81e6824f294f436311fc382bbe",
-                "reference": "cd5835fb78163c81e6824f294f436311fc382bbe",
+                "url": "https://api.github.com/repos/contao/conflicts/zipball/7591089bcfe9f888a6302db373666fb0be9163bd",
+                "reference": "7591089bcfe9f888a6302db373666fb0be9163bd",
                 "shasum": ""
             },
             "conflict": {
@@ -1092,7 +1092,7 @@
                 "symfony/web-profiler-bundle": "6.1.* <6.1.2",
                 "twig/intl-extra": "3.9.0",
                 "twig/twig": "2.7.0 || 3.9.0 || 3.10.0 || 3.10.1",
-                "web-auth/webauthn-symfony-bundle": "5.1.0 || 5.1.1"
+                "web-auth/webauthn-symfony-bundle": "5.1.*"
             },
             "default-branch": true,
             "type": "metapackage",
@@ -1116,7 +1116,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-01-20T10:54:38+00:00"
+            "time": "2025-02-18T11:25:56+00:00"
         },
         {
             "name": "contao/core-bundle",

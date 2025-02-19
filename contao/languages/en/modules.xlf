@@ -8,6 +8,12 @@
             <trans-unit id="MOD.cars.1">
                 <target>Hier findest du die Autosammlung</target>
             </trans-unit>
+            <trans-unit id="FMD.cars.0">
+                <target>Autosammlung</target>
+            </trans-unit>
+            <trans-unit id="FMD.cars.1">
+                <target>Hier findest du die Autosammlung</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
